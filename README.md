@@ -1,6 +1,6 @@
 # Samy Amani
 
-MSc student in Computer Science (integrated Master's–PhD track) at Sorbonne Paris Nord University, after an exchange semester at National Taiwan University.
+MSc student in Computer Science (integrated Master's–PhD track) at Sorbonne Paris Nord University.
 I want to build agents that learn on their own, in any environment. Today that means deep reinforcement learning and LLM agents.
 
 ### What I'm working on
